@@ -7,8 +7,8 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#background{
-    background-color: lightgrey;
+body{
+    background-color: #F6F8F9;
 }
 
 /* Header */
@@ -51,6 +51,7 @@ h1{
 .down{
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
+    padding-bottom: 30px;
 }
 
 /* Section 1 */
@@ -75,9 +76,9 @@ h1{
 }
 
 hr{
-    width: 90%;
+    width: 80%;
     margin: auto;
-    border: 1px solid lightgrey;
+    border: 1px solid #F6F8F9;
 }
 
 /* Section 2 */
