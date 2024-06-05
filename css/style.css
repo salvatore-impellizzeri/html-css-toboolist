@@ -44,6 +44,7 @@ h1{
     padding-bottom: 10px;
     padding-top: 20px;
     margin-top: 100px;
+    margin-bottom: 2px;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
 }
@@ -73,12 +74,6 @@ h1{
 .white{
     color: rgba(128, 128, 128, 0.5);
     border: 1px solid rgba(128, 128, 128, 0.5);
-}
-
-hr{
-    width: 80%;
-    margin: auto;
-    border: 1px solid #F6F8F9;
 }
 
 /* Section 2 */
